@@ -1,0 +1,20 @@
+id,name,gender,birth_year,death_year,dynasty,hemophilia_status,role
+n1,Queen Victoria,Female,1819,1901,House of Hanover,Carrier,Queen
+n2,Prince Albert,Male,1819,1861,Saxe-Coburg and Gotha,Normal,Prince Consort
+n3,"Victoria, Princess Royal",Female,1840,1901,House of Hohenzollern,Carrier,Princess
+n4,Edward VII,Male,1841,1910,House of Saxe-Coburg and Gotha,Normal,King
+n5,Princess Alice,Female,1843,1878,House of Hesse,Carrier,Princess
+n6,Prince Alfred,Male,1844,1900,House of Saxe-Coburg and Gotha,Normal,Duke
+n7,Princess Helena,Female,1846,1923,House of Schleswig-Holstein,Normal,Princess
+n8,Princess Louise,Female,1848,1939,House of Windsor,Normal,Princess
+n9,Prince Arthur,Male,1850,1942,House of Windsor,Normal,Duke
+n10,Prince Leopold,Male,1853,1884,House of Windsor,Affected,Duke
+n11,Princess Beatrice,Female,1857,1944,House of Battenberg,Carrier,Princess
+n12,Alexandra Feodorovna (Alix of Hesse),Female,1872,1918,House of Romanov,Carrier,Empress of Russia
+n13,Nicholas II,Male,1868,1918,House of Romanov,Normal,Tsar
+n14,Olga Nikolaevna,Female,1895,1918,House of Romanov,Normal,Grand Duchess
+n15,Tatiana Nikolaevna,Female,1897,1918,House of Romanov,Normal,Grand Duchess
+n16,Maria Nikolaevna,Female,1899,1918,House of Romanov,Normal,Grand Duchess
+n17,Anastasia Nikolaevna,Female,1901,1918,House of Romanov,Normal,Grand Duchess
+n18,Alexei Nikolaevich,Male,1904,1918,House of Romanov,Affected,Tsarevich
+n19,Grigori Rasputin,Male,1869,1916,None,Unknown,Mystic
